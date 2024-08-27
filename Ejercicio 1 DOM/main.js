@@ -1,6 +1,6 @@
 // 1.1 Usa querySelector para mostrar por consola el botón con la clase .showme
 
-document.getElementsByClassName("showme");
+document.querySelector(".showme");
 
 // 1.2 Usa querySelector para mostrar por consola el h1 con el id #pillado
 
